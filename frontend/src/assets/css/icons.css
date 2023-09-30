@@ -1,0 +1,19 @@
+.action-icons {
+    display: flex;
+    gap: 10px; /* Adjust the gap as needed */
+
+}
+
+.action-icon {
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 12%;
+}
+
+.edit-icon {
+    color: green; /* Change to your desired color */
+}
+
+.delete-icon {
+    color: red; /* Change to your desired color */
+}
