@@ -1,4 +1,5 @@
-- Steps to execute the project
+Steps to execute the project :
+
 Make sure that node js is installed in your system. (Used version: v16.15.0)
 The backend side using JDK 17.
 
